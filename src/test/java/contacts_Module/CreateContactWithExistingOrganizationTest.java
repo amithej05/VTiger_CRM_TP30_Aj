@@ -34,7 +34,7 @@ import objectRepo.HomePage;
 import objectRepo.LoginPage;
 import objectRepo.OrganizationPage;
 
-public class CreateContactWithExistingOrganizationTest extends BaseClass {
+public class CreateContactWithExistingOrganizationTest {
 	//
 	@Test
 	public void CreateContactWithExistingOrganizationTest() throws Exception {

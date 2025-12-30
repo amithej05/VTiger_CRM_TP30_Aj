@@ -29,7 +29,7 @@ import objectRepo.CreatingNewContactPage;
 import objectRepo.HomePage;
 import objectRepo.LoginPage;
 //done
-public class CreateContactsWithMandatorytextFieldsTest extends BaseClass {
+public class CreateContactsWithMandatorytextFieldsTest {
 	
 	@Test(groups="smoke")
 	public void CreateContactsWithMandatorytextFieldsTest() throws Exception {
